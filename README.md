@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Faraday22
+- 👀 I’m interested in learning how to code.
+- 🌱 I’m currently learning trying to learn python
+- 📫 How to reach me on discord faraday#2184
