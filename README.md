@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Faraday22
-- 👀 I’m interested in learning how to script bash & maybe C
-- 🌱 I’m currently Learning / Trying to learn to script bash :D
-- 📫 How to reach me on discord faraday21
+- 👀 I’m interested in learning how to script bash, programm in C, cybersecurity, and learning how to do CTFs
+- 🌱 I’m currently Learning / Trying to learn to script bash & C
+- - 📫 How to reach me on discord faraday21
