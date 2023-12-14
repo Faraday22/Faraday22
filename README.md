@@ -3,7 +3,7 @@
 - I'm some teen who enjoys programing
 - I hate web development but am slowly doing it 😢
 - I'm learning vim-binds (use nvim)
-- 
+  
 
 
 
