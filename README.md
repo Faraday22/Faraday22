@@ -11,4 +11,4 @@
 - I'm also forcing myself to learn nvim
 - 🌱 I’m currently Learning Javascript / Typescript :(
   
-- 📫 How to reach me: On discord it's faraday21
+- 📫 How to reach me: On discord it's faraday21 or my Twitter
