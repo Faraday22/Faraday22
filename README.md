@@ -7,8 +7,7 @@
 
 
 ### Learning
-- 👀 I’m interested in learning how to script bash, maybe php, typescript, program in C, and rice nvim with lua ,but am doing a bit web development for some reason
-- I'm also forcing myself to learn nvim
-- 🌱 I’m currently Learning Javascript / Typescript :(
+- I'm forcing myself to learn how to work with nvim
+- 🌱 I’m currently (Trying to)Learning Rust & Typescript :(
   
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
