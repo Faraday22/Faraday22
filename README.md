@@ -8,6 +8,6 @@
 
 ### Learning
 - I'm forcing myself to learn how to work with nvim
-- 🌱 I’m currently (Trying to)Learning Rust & Typescript :(
+- 🌱 I’m currently (Trying to)Learning Zig & Typescript :(
   
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
