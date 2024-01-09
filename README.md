@@ -1,13 +1,12 @@
 ### Who I am
 - Hi I'm Faraday
 - I'm some teen who enjoys programing
-- I hate web development, but am slowly doing it 😢
+- I use arch btw, linux go brrrrrr
 - I'm learning vim-binds (using neovim)
   
 
 
 ### Learning
 - I'm forcing myself to learn how to work with nvim
-- 🌱 I’m currently (Trying to)Learning Zig & Typescript :(
-  
+- 🌱 I’m currently (Trying to )Learn / learning C   
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
