@@ -8,5 +8,5 @@
 
 ### Learning
 - I'm forcing myself to learn how to work with nvim
-- 🌱 I’m currently (Trying to )Learn / learning Rust maybe c++ later on
+- 🌱 I’m currently (Trying to )Learn / learning low-level system languages (idk yet)
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
