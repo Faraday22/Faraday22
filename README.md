@@ -7,6 +7,6 @@
 
 
 ### Learning
-- I'm forcing myself to learn how to work with nvim
-- 🌱 I’m currently trying to learn Rust
+- I'm learning nvim binds
+- 🌱 I’m currently trying to learn Godot(GDSscript) and Lua 
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
