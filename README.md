@@ -8,5 +8,5 @@
 
 ### Learning
 - I'm learning nvim binds
-- 🌱 I’m currently trying to learn Godot(GDSscript) and Lua 
+- Learning some programming language :D
 - 📫 How to reach me: On discord it's faraday21 or my Twitter
