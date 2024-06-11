@@ -1,12 +1,9 @@
 ### Who I am
-- Hi I'm Faraday
-- I'm some teen who enjoys programing
+- I'm some Toaster who enjoys programing
 - I use arch btw, linux go brrrrrr
-- I'm learning vim-binds (using neovim)
-  
-
+- Neovim is the best
 
 ### Learning
-- I'm learning nvim binds
-- Learning some programming language :D
-- 📫 How to reach me: On discord it's faraday21 or my Twitter
+- I'm learning vim binds
+- Learning Golang
+- 📫 How to reach me: Telegram: [@OxidizedToast](https://t.me/OxidizedToast)
